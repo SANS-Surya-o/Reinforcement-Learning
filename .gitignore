@@ -1,0 +1,9 @@
+env
+Algorihtms/RESULTS
+__pycache__
+
+
+# CHANGES TO BE MADE AFTER CLASS:
+# 1. Change the values added to value_progress in Q and sarsa from Q[S][0] to max(Q[S])
+# 2. Make code modular : plotting and animation should be in separate files
+# 3. Move the theoretical values of threshold to the same class as the problem description 
